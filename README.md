@@ -10,7 +10,7 @@ By utilizing the Linux kernel's `dm-cache` (via LVM), Fenbonce bonds a large, sl
 - **Transparent Acceleration**: Once configured, the OS treats the combined volume as a single high-speed device.
 - **Lightweight**: Written in Python, leveraging native Linux LVM tools.
 
-## 🛠️ Installation
+## Installation is as easy as just running a command!
 
 ### Fedora
 ```bash
